@@ -1,0 +1,58 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS\\Protheus\\1212210\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true,
+			"extendFeatures": {
+				"charDetails": false
+			},
+			"enableMultiThread": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "sigamdi"
+		},
+		{
+			"label": "sigacfg"
+		},
+		{
+			"label": "sigafin"
+		},
+		{
+			"label": "U_Variaveis"
+		},
+		{
+			"label": "U_BLOCOSDECODIGO"
+		},
+		{
+			"label": "U_WORK_ORDENACAO_E_BUSCAS"
+		},
+		{
+			"label": "U_WORK_ARQUIVO_TEMPORARIO_3"
+		},
+		{
+			"label": "U_CRIAR_ARQUIVO_TEXTO_1"
+		},
+		{
+			"label": "ESTRUTURAS_DE_DECISAO"
+		},
+		{
+			"label": "U_ESTRUTURAS_DE_DECISAO"
+		},
+		{
+			"label": "sigcfg"
+		},
+		{
+			"label": "sigacom"
+		}
+	],
+	"lastProgramExecuted": "sigafin"
+}
