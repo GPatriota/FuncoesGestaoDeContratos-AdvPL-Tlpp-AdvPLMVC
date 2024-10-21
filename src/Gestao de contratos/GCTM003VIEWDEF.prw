@@ -40,5 +40,5 @@ Static Function viewdef
     oView:createHorizontalBox('BOXZ53DET', 80)
     oView:setOwnerView('Z53MASTER', 'BOXZ53CAB')
     oView:setOwnerView('Z53DETAIL', 'BOXZ53DET')
-
+    
 Return oView
